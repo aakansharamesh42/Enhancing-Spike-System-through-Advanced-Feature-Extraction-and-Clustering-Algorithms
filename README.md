@@ -17,7 +17,7 @@ These instructions will guide you through setting up the development environment
 
 1. Clone the Repository
 First, clone the forked repository to your local machine:
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/SpikeInterface/spikeinterface.git
 cd YourRepoName
 
 2. Setting Up a Virtual Environment
